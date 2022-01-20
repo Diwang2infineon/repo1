@@ -1,1 +1,2 @@
-2
+printf("hi");// origianl one  1
+
